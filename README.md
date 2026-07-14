@@ -16,7 +16,7 @@
 
 The **Quiz Mobile Application** is a native Android educational quiz game featuring three unique interactive game categories — Color Recognition, Alphabet Identification, and Object Recognition. Players log in, choose a game from a central dashboard, answer multiple-choice questions, and are taken to a results screen showing their score. A completion-gating mechanism prevents the player from quitting until all three games have been finished.
 
-This project was developed as part of coursework at **TechNet Cloud** to demonstrate multi-activity Android architecture, SQLite database integration using `SQLiteOpenHelper`, `SharedPreferences`-based state persistence, and `Intent`-driven navigation.
+This project was developed to demonstrate multi-activity Android architecture, SQLite database integration using `SQLiteOpenHelper`, `SharedPreferences`-based state persistence, and `Intent`-driven navigation.
 
 ---
 

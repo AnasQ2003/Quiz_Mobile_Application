@@ -1,3 +1,6 @@
+<div align="center">
+
+
 # 🧠 Quiz Mobile Application — Multi-Category Android Quiz Game
 
 > A feature-rich, multi-screen Android quiz game with three distinct game categories, user login, SQLite score persistence, and game-completion gating — built entirely in Java.
@@ -9,6 +12,8 @@
 [![SQLite](https://img.shields.io/badge/SQLite-3-003B57.svg?style=flat-square&logo=sqlite)](https://www.sqlite.org/)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-Hedgehog-3DDC84.svg?style=flat-square&logo=android-studio)](https://developer.android.com/studio)
 [![Compile SDK](https://img.shields.io/badge/Compile_SDK-34-blue.svg?style=flat-square)](https://developer.android.com/about/versions/14)
+
+</div>
 
 ---
 
@@ -189,7 +194,7 @@ cd Quiz_Mobile_Application
 ```
 MIT License
 
-Copyright (c) Quiz Mobile Application ---2026 AnasQ2003
+Copyright (c) Quiz Mobile Application --- 2026 AnasQ2003
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
